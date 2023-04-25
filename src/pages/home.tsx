@@ -1,3 +1,5 @@
+import '../assets/home.scss';
+
 export const Home = () => {
-	return <div></div>;
+	return <div id="home"></div>;
 };
